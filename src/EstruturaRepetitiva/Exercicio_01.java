@@ -1,9 +1,11 @@
+package EstruturaRepetitiva;
+
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicios_04_EstruturaRepetitiva {
+public class Exercicio_01 {
 
-    // 01 - Somar números digitados
+    // Somar números digitados aleatoriamente
     private static void exercicio01(Scanner sc) {
 
         int n;
@@ -20,7 +22,6 @@ public class Exercicios_04_EstruturaRepetitiva {
 
         System.out.println("O valor da soma é: " + soma);
     }
-
 
     public static void main(String[] args) {
 
