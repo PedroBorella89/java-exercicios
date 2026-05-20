@@ -1,9 +1,9 @@
-package EntradaESaidaDeDados;
+package entradaesaida;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_01 {
+public class Exercicio01 {
 
     //01 - Somar dois números
     private static void exercicio01 (Scanner sc){

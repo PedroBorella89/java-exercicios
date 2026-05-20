@@ -1,9 +1,9 @@
-package EstruturaCondicional;
+package condicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_05 {
+public class Exercicio05 {
 
     // 05 - Ler o código do item, a quantidade e mostrar o valor da conta
     private static void exercicio05(Scanner sc) {

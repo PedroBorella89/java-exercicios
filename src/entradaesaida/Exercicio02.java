@@ -1,9 +1,9 @@
-package EntradaESaidaDeDados;
+package entradaesaida;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_02 {
+public class Exercicio02 {
 
     // 02 - Calcular a área de um círculo
     private static void exercicio02(Scanner sc) {

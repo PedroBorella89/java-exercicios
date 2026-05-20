@@ -1,9 +1,9 @@
-package EstruturaCondicional;
+package condicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_03 {
+public class Exercicio03 {
 
     // 03 - Números múltiplos ou não múltiplos
     private static void exercicio03(Scanner sc) {

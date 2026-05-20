@@ -1,9 +1,9 @@
-package EstruturaRepetitiva;
+package repeticao;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_02 {
+public class Exercicio02 {
 
     // Ler duas coordenadas e escrever em qual quadrante cartesiano pertence
 

@@ -1,9 +1,9 @@
-package EstruturaCondicional;
+package condicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_01 {
+public class Exercicio01 {
 
     // 01 - Ler um número e dizer se é positivo ou negativo
     private static void exercicio01(Scanner sc) {

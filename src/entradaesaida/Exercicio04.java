@@ -1,9 +1,9 @@
-package EntradaESaidaDeDados;
+package entradaesaida;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_04 {
+public class Exercicio04 {
 
     // 04 - Calcular o salário do funcionário
     private static void exercicio04(Scanner sc) {

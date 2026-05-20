@@ -1,9 +1,9 @@
-package EntradaESaidaDeDados;
+package entradaesaida;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_03 {
+public class Exercicio03 {
 
     // 03 - Calcular diferenças de produtos
     private static void exercicio03(Scanner sc) {

@@ -1,9 +1,9 @@
-package EntradaESaidaDeDados;
+package entradaesaida;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_05 {
+public class Exercicio05 {
 
     // 05 - Carrinho de compras
     private static void exercicio05(Scanner sc) {
