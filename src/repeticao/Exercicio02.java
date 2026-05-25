@@ -6,16 +6,13 @@ import java.util.Scanner;
 public class Exercicio02 {
 
     // Ler duas coordenadas e escrever em qual quadrante cartesiano pertence
-
     private static void exercicio02(Scanner sc) {
 
-        int x, y;
-
         System.out.print("Digite a primeira coordenada: ");
-        x = sc.nextInt();
+        int x = sc.nextInt();
 
         System.out.print("Digite a segunda coordenada: ");
-        y = sc.nextInt();
+        int y = sc.nextInt();
 
         while (x != 0 && y != 0) {
 
